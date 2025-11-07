@@ -5,7 +5,7 @@
 ### Project Layout
 
 ```
-ant_colony_project/
+tsp/
 ├─ README.md
 ├─ requirements.txt
 ├─ data/                # place the .npy TSP instances here
